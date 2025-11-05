@@ -76,9 +76,9 @@ const programs = [
     mon: "Jan",
     date: "18 25",
     image: event8,
-    title: "Lorem ipsum dolor sit amet consectetur.",
+    title: "Intro to Software Development",
     content:
-      "Well get you directly seated and inside for you to enjoy the show.",
+      "Beginner-friendly workshop covering fundamentals of building real-world software projects.",
   },
   {
     mon: "Oct",
@@ -94,7 +94,7 @@ const programs = [
     image: event10,
     title: "How to Open-Source",
     content:
-      "Open source Tools and Technologies and Open Source Opportuities.",
+      "Open source Tools and Technologies and Open Source opportunities for contributing to global projects.",
   },
   {
     mon: "Aug",
@@ -116,9 +116,9 @@ const programs = [
     mon: "Jun",
     date: "12 22",
     image: eventsimage,
-    title: "Tutorial and Hackathon on HTML & CSS",
+    title: "HTML & CSS Tutorial + Hackathon",
     content:
-      "We will get you directly seated and goodies will be.",
+      "Hands-on web development session followed by a mini hackathon, with goodies for participants.",
   },
 ];
 export { EventsTop,EventsBottom,programs };
